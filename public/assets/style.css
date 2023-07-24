@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    
+}
+form { 
+margin: 0 auto; 
+width:auto;
+}
+
+.navbar {
+    
+    box-shadow: 10px 10px 5px #DCDCDC;
+}
+.navbar-brand{
+    text-align: center;
+    margin-left: 60rem !important;
+}
+
+.spantext{
+    font-size: 10px;
+}
+
+.container{
+    box-shadow: 10px 10px 5px #DCDCDC
+}
+
